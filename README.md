@@ -12,7 +12,7 @@ Deeply rooted in my Mexican heritage and driven by a passion for cybersecurity a
 
 ### 📺 Latest LinkedIn Posy
 
-<img src="Downloads/scada.jpeg" width=1000>"
+<img src="\Users\Mike Corona-Gonzalez\Downloads/scada.jpeg" width=1000>"
 
 ### Skills
 
