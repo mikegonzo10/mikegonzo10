@@ -11,11 +11,43 @@ Deeply rooted in my Mexican heritage and driven by a passion for cybersecurity a
 * ⚡  Love Dodgers/Lakers and Anime
 
 ### 📺 Latest LinkedIn Posy
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Top Paying Companies for Software Engineers](https://ytcards.demolab.com/?id=cIvduLKs5uY&title=Top+Paying+Companies+for+Software+Engineers&lang=en&timestamp=1707058821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "Top Paying Companies for Software Engineers")](https://www.linkedin.com/embed/feed/update/urn:li:share:7155662573130932225)
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7155662573130932225" height="982" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-<!-- END YOUTUBE-CARDS -->
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Allow the job to commit to the repository
+    permissions:
+      contents: write
+    # Run the GitHub Readme YouTube Cards action
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCipSxT7a3rn81vGLw9lqRkg
+          lang: en
+          comment_tag_name: YOUTUBE-CARDS
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }} # Configured in Actions Secrets (see Wiki)
+          max_videos: 6
+          base_url: https://ytcards.demolab.com/
+          card_width: 250
+          border_radius: 5
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
+          theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          theme_context_dark: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
+          max_title_lines: 2
+          show_duration: true # Requires YouTube API Key (see Wiki)
+          author_name: GitHub Actions
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_message: "docs(readme): Update YouTube cards"
+          readme_path: README.md
+          output_only: false
+          output_type: markdown
 ### Skills
 
 
