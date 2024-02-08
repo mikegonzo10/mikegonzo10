@@ -13,6 +13,7 @@ Deeply rooted in my Mexican heritage and driven by a passion for cybersecurity a
 ### 📺 Latest LinkedIn Posy
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Top Paying Companies for Software Engineers](https://ytcards.demolab.com/?id=cIvduLKs5uY&title=Top+Paying+Companies+for+Software+Engineers&lang=en&timestamp=1707058821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "Top Paying Companies for Software Engineers")](https://www.linkedin.com/embed/feed/update/urn:li:share:7155662573130932225)
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7155662573130932225" height="982" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 <!-- END YOUTUBE-CARDS -->
 ### Skills
