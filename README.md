@@ -10,6 +10,11 @@ Deeply rooted in my Mexican heritage and driven by a passion for cybersecurity a
 * ✉️  You can contact me at [mikegonzalez4444@gmail.com](mailto:mikegonzalez4444@gmail.com)
 * ⚡  Love Dodgers/Lakers and Anime
 
+### 📺 Latest LinkedIn Posy
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7155662573130932225" height="982" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<!-- END YOUTUBE-CARDS -->
 ### Skills
 
 
