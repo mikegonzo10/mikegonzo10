@@ -12,16 +12,11 @@ Deeply rooted in my Mexican heritage and driven by a passion for cybersecurity a
 
 ### 📺 Latest LinkedIn Post
 <br>
-
 <!-- BLOG-POST-LIST:START -->
 - [SCADA/ICD SYSTEMS](https://www.linkedin.com/posts/mikegonzo_have-you-ever-wondered-how-electric-grids-activity-7155662574011699200-h8Zs?utm_source=share&utm_medium=member_desktop)
-- [How To Create an Animated Loading Spinner with Tailwind CSS](https://braydoncoyer.dev/blog/how-to-create-an-animated-loading-spinner-with-tailwind-css)
-- [Do Interview Kickstart Courses Live Up to the Cost?](https://braydoncoyer.dev/blog/do-interview-kickstart-courses-live-up-to-the-cost)
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
-
-
-
+- [Linux](https://www.linkedin.com/posts/mikegonzo_for-the-past-week-i-have-been-diving-into-activity-7157250699859304448-NdMf?utm_source=share&utm_medium=member_desktop)
+- [Python ](https://www.linkedin.com/posts/mikegonzo_python-cybersecurity-automation-activity-7158346393613488128-x3UN?utm_source=share&utm_medium=member_desktop)
+- [Incident Response]([https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing](https://www.linkedin.com/posts/mikegonzo_this-week-i-dived-into-more-about-incident-activity-7160842604387954688-m77x?utm_source=share&utm_medium=member_desktop))
 ### Skills
 
 <p align="left">
