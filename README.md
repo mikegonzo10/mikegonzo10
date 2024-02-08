@@ -12,6 +12,7 @@ Deeply rooted in my Mexican heritage and driven by a passion for cybersecurity a
 
 ### 📺 Latest LinkedIn Post
 <br>
+
 <!-- BLOG-POST-LIST:START -->
 - [SCADA/ICD SYSTEMS](https://www.linkedin.com/posts/mikegonzo_have-you-ever-wondered-how-electric-grids-activity-7155662574011699200-h8Zs?utm_source=share&utm_medium=member_desktop)
 - [Linux](https://www.linkedin.com/posts/mikegonzo_for-the-past-week-i-have-been-diving-into-activity-7157250699859304448-NdMf?utm_source=share&utm_medium=member_desktop)
