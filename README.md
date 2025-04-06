@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mike Corona-Gonzalez
 ============================================================================================================================================
 
-Cyber Security | Ethical Hacker
+Cyber Security 
 -------------------------------
 
 Deeply rooted in my Mexican heritage and driven by a passion for cybersecurity and ethical hacking. I am currently pursuing a Bachelor's Degree in Information Systems and Technology with a concentration in Cyber Security at California State University San Bernardino, I've discovered my true calling in safeguarding digital landscapes. Eager to master the art of defense, I've been enhancing my skills through practical hacking techniques, leveraging both formal education and free online resources. Outside of work, I'm a huge Dodgers and Lakers fan, an anime enthusiast, and a gamer, finding balance and joy in my diverse interests. With a focus on problem-solving, research, and delivering results, I am dedicated to making a significant impact in the cybersecurity field.
