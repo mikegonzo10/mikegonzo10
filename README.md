@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mike Corona-Gonzalez
 
-## 🛡️ Cybersecurity Enthusiast | Ethical Hacker | AI x Cyber Researcher
+## 🛡️ Cybersecurity Enthusiast | AI x Cyber Researcher
 
 Rooted in my Mexican heritage and driven by a passion for protecting digital landscapes, I’m currently pursuing a B.S. in Information Systems and Technology with a concentration in Cybersecurity at California State University, San Bernardino. I'm committed to mastering the art of defense through hands-on labs, open-source tools, and real-world projects involving AI, threat detection, and network security.
 
